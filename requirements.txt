@@ -1,0 +1,10 @@
+tkinter
+websocket-client
+requests
+json
+threading
+time
+collections
+numpy
+matplotlib
+mpl_finance

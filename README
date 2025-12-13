@@ -1,0 +1,16 @@
+by completing this project I have:
+    1. Understand Tkinter Basics and layouts
+    2. Understand Event-Driven Programming 
+    3. Somewhat understand REST APIs and WebSocket connections
+    
+    Bonus:
+    1. Gotten myself in the hospital due to stress and multiple headaches
+    2. Briefly contemplate my death 
+    3. Questioning life
+    4. Just tired of everything
+
+crypto_dashboard/
+├── most_code.py                 # Entry point and CryptoTicker class
+├── chart.py                   # ChartPanel
+├── README                   # This file
+└── requirements.txt       # Dependencies
