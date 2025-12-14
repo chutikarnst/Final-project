@@ -10,6 +10,7 @@ by completing this project I have:
     4. Just tired of everything
 
 crypto_dashboard/
+├── Final UI design.png            # Picture of the UI design
 ├── most_code.py                 # Entry point and CryptoTicker class
 ├── chart.py                   # ChartPanel
 ├── README                   # This file
